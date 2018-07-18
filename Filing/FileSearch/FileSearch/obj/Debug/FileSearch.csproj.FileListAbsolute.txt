@@ -1,0 +1,9 @@
+E:\VP Programs\FileSearch\FileSearch\bin\Debug\FileSearch.exe.config
+E:\VP Programs\FileSearch\FileSearch\bin\Debug\FileSearch.exe
+E:\VP Programs\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.Form1.resources
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.Properties.Resources.resources
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.csproj.GenerateResource.Cache
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.exe
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.pdb
+E:\VP Programs\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache

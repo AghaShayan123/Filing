@@ -1,0 +1,9 @@
+E:\VP Programs\File Compare\File Compare\bin\Debug\File Compare.exe.config
+E:\VP Programs\File Compare\File Compare\bin\Debug\File Compare.exe
+E:\VP Programs\File Compare\File Compare\bin\Debug\File Compare.pdb
+E:\VP Programs\File Compare\File Compare\obj\Debug\File Compare.csprojResolveAssemblyReference.cache
+E:\VP Programs\File Compare\File Compare\obj\Debug\File_Compare.Form1.resources
+E:\VP Programs\File Compare\File Compare\obj\Debug\File_Compare.Properties.Resources.resources
+E:\VP Programs\File Compare\File Compare\obj\Debug\File Compare.csproj.GenerateResource.Cache
+E:\VP Programs\File Compare\File Compare\obj\Debug\File Compare.exe
+E:\VP Programs\File Compare\File Compare\obj\Debug\File Compare.pdb

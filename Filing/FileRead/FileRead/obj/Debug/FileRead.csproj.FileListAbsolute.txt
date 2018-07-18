@@ -1,0 +1,9 @@
+E:\VP Programs\FileRead\FileRead\bin\Debug\FileRead.exe.config
+E:\VP Programs\FileRead\FileRead\bin\Debug\FileRead.exe
+E:\VP Programs\FileRead\FileRead\bin\Debug\FileRead.pdb
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.Form1.resources
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.Properties.Resources.resources
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.csproj.GenerateResource.Cache
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.exe
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.pdb
+E:\VP Programs\FileRead\FileRead\obj\Debug\FileRead.csprojResolveAssemblyReference.cache

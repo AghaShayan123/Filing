@@ -1,0 +1,9 @@
+E:\VP Programs\File Write\File Write\bin\Debug\File Write.exe.config
+E:\VP Programs\File Write\File Write\bin\Debug\File Write.exe
+E:\VP Programs\File Write\File Write\bin\Debug\File Write.pdb
+E:\VP Programs\File Write\File Write\obj\Debug\File Write.csprojResolveAssemblyReference.cache
+E:\VP Programs\File Write\File Write\obj\Debug\File_Write.Form1.resources
+E:\VP Programs\File Write\File Write\obj\Debug\File_Write.Properties.Resources.resources
+E:\VP Programs\File Write\File Write\obj\Debug\File Write.csproj.GenerateResource.Cache
+E:\VP Programs\File Write\File Write\obj\Debug\File Write.exe
+E:\VP Programs\File Write\File Write\obj\Debug\File Write.pdb
